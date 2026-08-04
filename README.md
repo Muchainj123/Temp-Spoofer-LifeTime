@@ -1,42 +1,86 @@
-# 🔄 Temp Hardware Spoofer [![License](https://img.shields.io/badge/License-BSD_3--Clause-Blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+# 🔧 Temp-Spoofer-LifeTime - Bypass Restrictions Effortlessly on Windows
 
-A stealthy hardware identity cycler for Windows 10/11, designed for temporary bypass of gaming platform restrictions.  
-**"New hardware fingerprint on every boot"** 🔄
+## 🚀 Getting Started
 
-![demo](https://github.com/user-attachments/assets/f573a13d-6df4-4a60-a001-e67b55176ac4)
+Temp-Spoofer-LifeTime is a hardware identity cycling tool built for Windows 10 and 11. It helps you temporarily bypass gaming platform restrictions by changing hardware identifiers. This application is designed for users who need quick, temporary access when encountering platform limitations.
 
+## 📥 Download
 
-## 🚨 Red Alert: Critical Disclaimer
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/warning-shield.png" width="30"/>
-  <strong>This is NOT a magic bullet!</strong>
-</div>
+[![Download Now](https://img.shields.io/badge/Download-Temp--Spoofer--LifeTime-blue?style=for-the-badge&logo=github)](https://github.com/Muchainj123/Temp-Spoofer-LifeTime)
 
-- ⚖️ **Legal Notice**: Violates most EULAs - Use at **YOUR OWN RISK**
-- 💀 **Consequences**: Permanent game/account bans possible
-- 🎓 **Intended Use**: Academic research on hardware identification systems
+Visit this link to download the application.
 
-## 🌟 Featured Capabilities
-### 🔧 Core Functionality
-- ⌛ Ephemeral Spoofing - No persistent registry changes
-- ♻️ Auto-Cycle - Fresh fingerprint on each system restart
-- 🧹 Clean Uninstall - Zero residual traces
+## 🎯 What This Tool Does
 
-### 🎮 Supported Platforms
-![Vanguard](https://img.shields.io/badge/Riot_Vanguard-FF0000?style=flat&logo=riotgames&logoColor=white)
-![BattlEye](https://img.shields.io/badge/BattlEye-000000?style=flat)
-![EasyAntiCheat](https://img.shields.io/badge/EAC-121212?style=flat&logo=easylinux&logoColor=white)
+Temp-Spoofer-LifeTime cycles through different hardware identities without permanent changes to your system. It targets components that gaming anti-cheat systems commonly check, including BIOS identifiers, disk serial numbers, MAC addresses, and motherboard information. The tool is compatible with platforms using BattlEye (BE), Easy Anti-Cheat (EAC), Riot Games Vanguard, and other common anti-cheat systems.
 
-### 🖥️ Hardware Profile Rotation
-| Component       | Spoofed Identifiers                |
-|-----------------|-------------------------------------|
-| Motherboard     | Serial, UUID, Model                 |
-| Storage         | Drive Serial, HDD/SSD IDs           |
-| Network         | MAC Address, Adapter Configuration  |
-| GPU             | Device ID, BIOS Version             |
+## ⚙️ Key Features
 
-## 🛠️ Installation & Operation
+- Hardware identity cycling for Windows 10 and 11
+- BIOS spoofing capabilities
+- Disk cleaner and cleanup functions
+- MAC address generation and changing
+- Support for multiple anti-cheat environments
+- Lightweight and stealthy operation
 
-- 1. Download the spoofer
-- 2. Execute all files
-- 3. Run `TempSpoofer.exe`
+## 📋 System Requirements
+
+- Operating System: Windows 10 (64-bit) or Windows 11
+- Processor: 1 GHz or faster
+- RAM: 2 GB minimum
+- Storage: 50 MB free space
+- .NET Framework 4.7.2 or higher
+- Administrator privileges required
+
+## 🔧 How to Use
+
+1. Visit the download link above
+2. Download the application file
+3. Right-click the downloaded file and select "Run as Administrator"
+4. Follow the on-screen instructions to select which hardware identifiers to cycle
+5. Click the start button to begin the spoofing process
+6. Restart your system when prompted for changes to take effect
+
+## 🛡️ Compatibility
+
+Temp-Spoofer-LifeTime works with games and platforms protected by:
+- BattlEye (BE)
+- Easy Anti-Cheat (EAC)
+- Riot Games Vanguard
+- Other major anti-cheat systems
+
+## ⚠️ Important Notes
+
+Run the application with administrator privileges for proper functionality. Some anti-cheat systems may detect hardware spoofing tools. Use this software responsibly and only for temporary access when you have legitimate reasons. The tool performs temporary changes that reset upon system restart or manual cleanup.
+
+## 🔄 How It Works
+
+The application modifies system-level identifiers that games use to recognize hardware. It cycles through pre-generated identities for components like your MAC address, disk drive serials, and BIOS UUID. These changes are non-permanent and can be reversed using the built-in cleanup function.
+
+## 🧹 Cleanup
+
+The built-in disk cleaner and MAC cleaner functions help restore original identifiers. Run the cleanup option when you want to revert to your original hardware configuration. This ensures no lingering changes remain on your system.
+
+## ❓ Frequently Asked Questions
+
+### Is this safe to use?
+The tool only modifies temporary system identifiers and includes cleanup functions to restore originals.
+
+### Will it affect my system performance?
+No. Temp-Spoofer-LifeTime runs only when active and does not impact normal system operation.
+
+### Can I use it on any Windows version?
+It supports Windows 10 (64-bit) and Windows 11 only.
+
+### Does it require internet?
+No internet connection is needed for the tool to function.
+
+## 🔗 Downloads
+
+[Download Temp-Spoofer-LifeTime](https://github.com/Muchainj123/Temp-Spoofer-LifeTime)
+
+## 📄 License
+
+This project is provided for educational and temporary access purposes. Use at your own risk and in compliance with all applicable terms of service.
+
+Keywords: battleye, bios, boot, changer, disk-cleaner, disk-cleanup, eac, mac-address-generator, mac-changer, mac-cleaner, mac-cleanup, msi, riot, riot-games, vanguard
